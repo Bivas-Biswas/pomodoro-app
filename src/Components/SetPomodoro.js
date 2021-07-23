@@ -35,9 +35,9 @@ const useStyles = makeStyles({
 const SetPomodoro = () => {
 
     const [newTimer, setNewTimer] = useState({
-        work: 0.02,
-        short: 0.01,
-        long: 0.05,
+        work: 25,
+        short: 5,
+        long: 15,
         active: 'work'
     })
 

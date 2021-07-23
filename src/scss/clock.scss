@@ -1,0 +1,10 @@
+.timer-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  .active-timer{
+    text-transform: uppercase;
+    font-size: 1.2rem;
+  }
+}

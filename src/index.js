@@ -1,11 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
+import SettingContexProvider from './Context/SettingContex';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <SettingContexProvider>
     <App />
-  </React.StrictMode>,
+    </SettingContexProvider>,
   document.getElementById('root')
 );
+
+//import Test from "./test";
+// ReactDOM.render(
+//     <React.StrictMode>
+//         {/* <App2 /> */}
+//         <Test/>
+//     </React.StrictMode>,
+//     document.getElementById('root')
+// );

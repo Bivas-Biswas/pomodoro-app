@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pormodoro-app-buggy/static/css/main.c6319f53.chunk.css",
-    "main.js": "/pormodoro-app-buggy/static/js/main.0aeb2900.chunk.js",
-    "main.js.map": "/pormodoro-app-buggy/static/js/main.0aeb2900.chunk.js.map",
-    "runtime-main.js": "/pormodoro-app-buggy/static/js/runtime-main.9801aa0c.js",
-    "runtime-main.js.map": "/pormodoro-app-buggy/static/js/runtime-main.9801aa0c.js.map",
-    "static/js/2.148e1e39.chunk.js": "/pormodoro-app-buggy/static/js/2.148e1e39.chunk.js",
-    "static/js/2.148e1e39.chunk.js.map": "/pormodoro-app-buggy/static/js/2.148e1e39.chunk.js.map",
-    "index.html": "/pormodoro-app-buggy/index.html",
-    "static/css/main.c6319f53.chunk.css.map": "/pormodoro-app-buggy/static/css/main.c6319f53.chunk.css.map",
-    "static/js/2.148e1e39.chunk.js.LICENSE.txt": "/pormodoro-app-buggy/static/js/2.148e1e39.chunk.js.LICENSE.txt"
+    "main.css": "/pomodoro-app-buggy/static/css/main.c6319f53.chunk.css",
+    "main.js": "/pomodoro-app-buggy/static/js/main.0aeb2900.chunk.js",
+    "main.js.map": "/pomodoro-app-buggy/static/js/main.0aeb2900.chunk.js.map",
+    "runtime-main.js": "/pomodoro-app-buggy/static/js/runtime-main.71c3a57c.js",
+    "runtime-main.js.map": "/pomodoro-app-buggy/static/js/runtime-main.71c3a57c.js.map",
+    "static/js/2.148e1e39.chunk.js": "/pomodoro-app-buggy/static/js/2.148e1e39.chunk.js",
+    "static/js/2.148e1e39.chunk.js.map": "/pomodoro-app-buggy/static/js/2.148e1e39.chunk.js.map",
+    "index.html": "/pomodoro-app-buggy/index.html",
+    "static/css/main.c6319f53.chunk.css.map": "/pomodoro-app-buggy/static/css/main.c6319f53.chunk.css.map",
+    "static/js/2.148e1e39.chunk.js.LICENSE.txt": "/pomodoro-app-buggy/static/js/2.148e1e39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9801aa0c.js",
+    "static/js/runtime-main.71c3a57c.js",
     "static/js/2.148e1e39.chunk.js",
     "static/css/main.c6319f53.chunk.css",
     "static/js/main.0aeb2900.chunk.js"
